@@ -53,7 +53,11 @@ const irfan = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00897B?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNyA1aDEwYTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTIgMkg3YTIgMiAwIDAgMS0yLTJWN2EyIDIgMCAwIDEgMi0yWm0yIDR2Nmg2VjlaTTcgMWgydjRIN1ptNCAwaDJ2NGgtMlptNCAwaDJ2NGgtMlpNNyAxOWgydjRIN1ptNCAwaDJ2NGgtMlptNCAwaDJ2NGgtMlpNMSA3aDR2MkgxWm0wIDRoNHYySDFabTAgNGg0djJIMVptMTgtOGg0djJoLTRabTAgNGg0djJoLTRabTAgNGg0djJoLTRaIi8%2BPC9zdmc%2B)
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
